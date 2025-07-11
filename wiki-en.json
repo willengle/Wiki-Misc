@@ -1,6 +1,6 @@
         "mwe-upwiz-deeds-macro-prompt-text": "This site requires {{GENDER:$2|you}} to provide copyright information for {{PLURAL:$1|this work|these works}}, to make sure everyone can legally reuse {{PLURAL:$1|it|them}}."
 ,
-        "mwe-upwiz-source-ownwork-label": "{{PLURAL:$1|This is|These are}} my own work and anyone is free to use {{PLURAL:$1|it|them}}.",
+        "mwe-upwiz-source-ownwork-label": "{{PLURAL:$1|This file is|These files are}} my own work."",
         "mwe-upwiz-source-ownwork-description": "Example: {{PLURAL:$1|photo|photos}} of nature, public events, work created by you, etc.",
         "mwe-upwiz-source-ownwork-cc-by-sa-4.0-explain": "(requires the person using {{PLURAL:$1|this media|these media}} to give appropriate credit and
  distribute under the same license)",
