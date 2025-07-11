@@ -1,4 +1,4 @@
-        "mwe-upwiz-deeds-macro-prompt-text": "We ask for this information to make sure everyone is allowed to freely use the files uploaded to Commons."
+        "mwe-upwiz-deeds-macro-prompt-text": "This site requires {{GENDER:$2|you}} to provide copyright information for {{PLURAL:$1|this work|these works}}, to make sure everyone can legally reuse {{PLURAL:$1|it|them}}."
 ,
         "mwe-upwiz-source-ownwork-label": "{{PLURAL:$1|This is|These are}} my own work and anyone is free to use {{PLURAL:$1|it|them}}.",
         "mwe-upwiz-source-ownwork-description": "Example: {{PLURAL:$1|photo|photos}} of nature, public events, work created by you, etc.",
