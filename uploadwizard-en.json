@@ -51,7 +51,7 @@ se [[COM:L#Well-known_licenses|open licenses]]",
         "mwe-upwiz-source-ownwork-origin-option-others-nocopyright": "Yes, the pre-existing {{PLURAL:$1|work is|works are}} not protected by any copyrig
 ht law",
         "mwe-upwiz-source-ownwork-origin-option-others-copyrighted": "No, {{PLURAL:$1|it is|they are}} copyright protected",
-        "mwe-upwiz-source-ownwork-origin-option-others-copyrighted-warning": "<b>Do not upload {{PLURAL:$1|this file|these files}}!</b> This site does not host files protected by copyright. Only media with [[COM:L#Acceptable_licenses|free licenses]] or in the [[COM:PD|public domain]] are permitted.",
+        "mwe-upwiz-source-ownwork-origin-option-others-copyrighted-warning": "<b>Do not upload {{PLURAL:$1|this file|these files}}!</b> This site does not host files protected by copyright. Only media with [[COM:L#Acceptable_licenses|open licenses]] or in the [[COM:PD|public domain]] are permitted.",
         "mwe-upwiz-source-ownwork-origin-option-others-unknown": "I am not sure",
         "mwe-upwiz-source-ownwork-origin-option-others-unknown-warning": "<b>Do not upload {{PLURAL:$1|this file|these files}}!</b> If you are in any doubt, please contact lt.hub@ubc.ca. Thank you.",
         "mwe-upwiz-source-ownwork-origin-option-ai": "{{GENDER:$2|I}} generated {{PLURAL:$1|this work|these works}} using an artificial intelligence tool [[COM:AI-generated_media|(view guidelines)]]",
